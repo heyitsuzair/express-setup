@@ -22,7 +22,7 @@ Enter the following in your terminal:
 
 
 ```bash
-  new-express-app
+  new-express-app my-app
 ```
 The CLI will install express/node js setup to your Desired Directory
 ![Image](https://github.com/heyitsuzair/express-setup/blob/master/img/cli-img.PNG "Image")
