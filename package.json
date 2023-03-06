@@ -7,9 +7,9 @@
     "author": "Muhammad Uzair <uzairdevil354123@gmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/heyitsuzair/@heyitsuzair/express-setup/issues"
+      "url": "https://github.com/heyitsuzair/express-setup/issues"
     },
-      "homepage": "https://github.com/heyitsuzair/@heyitsuzair/express-setup#readme",
+      "homepage": "https://github.com/heyitsuzair/express-setup#readme",
     "type":"module",
     "bin": {
         "new-express-app": "index.js"
