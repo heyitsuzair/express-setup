@@ -18,7 +18,7 @@ Install the CLI globally. If you are windows user, run your command prompt/termi
 ```
 ## Usage
 
-Enter the following in your terminal:
+Enter the following in your terminal where you want to initialize app:
 
 
 ```bash
