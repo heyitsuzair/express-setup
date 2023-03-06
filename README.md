@@ -14,7 +14,7 @@
 Install the CLI globally. If you are windows user, run your command prompt/terminal as administrator. If you are macOS user, add sudo before the following command.
 
 ```bash
-  npm i -g expressjs-setup
+  npm i -g @heyitsuzair/express-setup
 ```
 ## Usage
 
