@@ -6,6 +6,7 @@
     "repository": "git@github.com:heyitsuzair/@heyitsuzair/express-setup.git",
     "author": "Muhammad Uzair <uzairdevil354123@gmail.com>",
     "license": "MIT",
+    "private": false,
     "bugs": {
       "url": "https://github.com/heyitsuzair/@heyitsuzair/express-setup/issues"
     },
