@@ -16,7 +16,7 @@ const currentPath = process.cwd();
 const projectPath = path.join(currentPath, projectName);
 const git_repo = "git@github.com:heyitsuzair/express-js-boilerplate.git";
 
-console.log(chalk.bgBlue(`new-express-app 1.0.0 by Muhammad Uzair`));
+console.log(chalk.bgBlue(`new-express-app 1.0.1 by Muhammad Uzair`));
 
 try {
   fs.mkdirSync(projectPath);
