@@ -1,22 +1,22 @@
 {
-    "name": "express-setup",
+    "name": "expressjs-setup",
     "version": "1.0.0",
     "description": "💻 A CLI To Setup Express/Nodejs Server",
     "main": "index.js",
-    "repository": "git@github.com:heyitsuzair/express-setup.git",
+    "repository": "git@github.com:heyitsuzair/expressjs-setup.git",
     "author": "Muhammad Uzair <uzairdevil354123@gmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/heyitsuzair/express-setup/issues"
+      "url": "https://github.com/heyitsuzair/expressjs-setup/issues"
     },
-      "homepage": "https://github.com/heyitsuzair/express-setup#readme",
+      "homepage": "https://github.com/heyitsuzair/expressjs-setup#readme",
     "type":"module",
     "bin": {
         "new-express-app": "index.js"
     },
     "keywords": [
         "express-js",
-        "express-setup"
+        "expressjs-setup"
     ],
     "dependencies": {
         "chalk": "^5.2.0"

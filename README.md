@@ -1,4 +1,4 @@
-## 📌express-setup
+## 📌expressjs-setup
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -14,7 +14,7 @@
 Install the CLI globally. If you are windows user, run your command prompt/terminal as administrator. If you are macOS user, add sudo before the following command.
 
 ```bash
-  npm i -g express-setup
+  npm i -g expressjs-setup
 ```
 ## Usage
 
